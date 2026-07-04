@@ -1,50 +1,90 @@
-#  Hey, I'm Chintan!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hey, I'm Chintan
 
-**dev_lox** /ˈtʃɪn.t̪ən/
+<div align="center">
 
-*19M • IIT Jodhpur  
-Obsessed with solving problems, building websites, and contributing to OSS (baby steps 😄)  
-Coding my way out of chaos — one repo at a time*
+### Software Engineer • IIT Jodhpur
 
-*Portfolio* - *https://whosworld.vercel.app/*
+Building scalable web applications, solving DSA, and contributing to Open Source.
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Problem+Solver;Open+Source+Contributor;Always+Building+Something+New"/>
+
+<p>
+<a href="https://whosworld.vercel.app">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-0A0A0A?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/chintan-vaghamshi-6578262aa/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/ChinTn_011">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</p>
+
+</div>
+
 ---
 
-## 🚀 Tech Stack
+#  Tech Stack
 
-<p align="left">
+### Languages
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/>&nbsp;
-  <img src="https://networkx.org/_static/networkx_logo.svg" width="200"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>&nbsp;
-  
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,py,js,html,css"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis"/>
+</p>
+
+### Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel"/>
+</p>
+
+<p>
+
+
 
 </p>
 
 ---
 
-## THINGS I DO - - - >
+#  What I Do
 
-- CP
-- Getting better at development  
-- Daily open-source contributions (slow but steady)  
-- Learning NetworkX + graph algorithms  
+-  Solve Data Structures & Algorithms problems every day
+-  Build full-stack applications with the MERN ecosystem
+-  Design secure backend systems and authentication flows
+-  Contribute to Open Source 
+-  Constantly learning system design and scalable architectures
+
+
 ---
 
-## 🌐 Socials
-- LinkedIn : *https://www.linkedin.com/in/chintan-vaghamshi-6578262aa/*
-- X/Twitter : *https://x.com/ChinTn_011*  
-- Mail : *vaghamshichintan9@gmail.com*
+# 🌐 Connect
+
+<p>
+<a href="https://whosworld.vercel.app">Portfolio</a> •
+<a href="https://www.linkedin.com/in/chintan-vaghamshi-6578262aa/">LinkedIn</a> •
+<a href="https://x.com/ChinTn_011">X</a> •
+<a href="mailto:vaghamshichintan9@gmail.com">Email</a>
+</p>
+
 ---
 
-### Thanks for stopping by — let's build something cool together ✨
+<div align="center">
+
+*"Code. Learn. Break Things. Fix Them. Repeat."*
+
+</div>
