@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hey, I'm Chintan
+ Hey, I'm Chintan
 
 <div align="center">
 
