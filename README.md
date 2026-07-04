@@ -85,6 +85,6 @@ Building scalable web applications, solving DSA, and contributing to Open Source
 
 <div align="center">
 
-*"Code. Learn. Break Things. Fix Them. Repeat."*
+*"Not your regular vibe coder"*
 
 </div>
