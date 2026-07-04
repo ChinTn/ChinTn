@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Software Engineer • IIT Jodhpur
+### Student • IIT Jodhpur
 
 Building scalable web applications, solving DSA, and contributing to Open Source.
 
