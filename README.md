@@ -1,10 +1,10 @@
 <div align="center">
-  <h2>Hey I am Chintan</h2>
+  <h2>Hey I am Chintan.</h2>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=16&pause=1000&color=B392F0&center=true&vCenter=true&width=400&lines=Aspiring+Software+Engineer;Full+Stack+Developer;AI+%2F+ML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" /><br/>
    
   </a>
-  <small> Jodhpur, India • 🎓 IIT Jodhpur</small><br/><br/>
+  <large> Jodhpur, India • 🎓 IIT Jodhpur</large><br/><br/>
   <small><a href="https://whosworld.vercel.app">Portfolio</a> • <a href="https://linkedin.com/in/">LinkedIn</a> • <a href="mailto:vaghamshichintan9@gmail.com">Email</a> • <a href="https://github.com/ChinTn">GitHub</a> • <a href="https://leetcode.com/u/ChinTn/">LeetCode</a></small>
   <br/><br/>
 
@@ -63,13 +63,13 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" alt="Frontend" />
   </a>
-  <br/><br/>
+  <br/>
   
   <small><b>Backend & Databases</b></small><br/><br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis&theme=dark" alt="Backend" />
   </a>
-  <br/><br/>
+  <br/>
   
   <small><b>Cloud, DevOps & Tooling</b></small><br/><br/>
   <a href="https://skillicons.dev">
@@ -110,10 +110,8 @@
 #### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChinTn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=C77DFF&text_color=A3B3BC" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinTn&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=C77DFF&currStreakNum=A3B3BC" alt="GitHub Streak" width="48%" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinTn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=A3B3BC" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinTn&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=C77DFF&currStreakNum=A3B3BC&v=1" alt="GitHub Streak" width="48%" />
+  
 </div>
 
 ---
@@ -152,5 +150,5 @@ profile:
 
 ```
 <div align="center">
-  <i>'not your avg Vibe Coder'</i>
+  <i>"not your avg vibe coder"</i>
 </div>
