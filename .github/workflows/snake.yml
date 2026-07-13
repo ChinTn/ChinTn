@@ -5,6 +5,10 @@ on:
     - cron: "0 */12 * * *" 
   workflow_dispatch: 
 
+# THIS IS THE FIX: Explicitly give permission to save the generated image
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
